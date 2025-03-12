@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoysa2000&show_icons=true&locale=en&layout=compact" alt="zoysa2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoysa2000&" alt="zoysa2000" /></p>
 
 
