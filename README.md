@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI Driven Framework for Accurate ECG Arrhythmia Classification**
+- 🔭 I’m currently working on **AI Driven Framework for Accurate ECG Arrhythmia Classification.**
 
-- 🌱 I’m currently learning **MERN Stack , Laravel , Typescript , PHP**
+- 🌱 I’m currently learning **MERN Stack , Laravel , Typescript and PHP**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+- 👯 I’m looking to collaborate on **Full Stack Development.**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack.**
 
-- 📫 How to reach me **thilinadezoysa2000@gmail.com**
+- 📫 How to reach me **thilinadezoysa2000@gmail.com or 39-bcs-0011@kdu.ac.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
