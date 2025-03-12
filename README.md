@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI Driven Framework for Accurate ECG Arrhythmia Classification.**
 
-- 🌱 I’m currently learning **MERN Stack , Laravel , Typescript and PHP**
+- 🌱 I’m currently learning **MERN Stack , Laravel , Typescript and PHP.**
 
 - 👯 I’m looking to collaborate on **Full Stack Development.**
 
