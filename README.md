@@ -1,7 +1,7 @@
 <h1 align="center">I'm Thilina De Zoysa</h1>
 <h3 align="center">A passionate About Full Stack Development</h3>
 <p align="center">
-  <img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" width="100%" alt="JavaScript Development GIF">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/305716178/original/c354b4e69a0b0c71816835617062b9a5d6303f5e/be-your-full-stack-web-developer-react-js-next-js-node-js-express-js-mongodb.png" width="100%" alt="JavaScript Development GIF">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoysa2000&label=Profile%20views&color=0e75b6&style=flat" alt="zoysa2000" /> </p>
