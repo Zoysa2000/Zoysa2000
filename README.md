@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Thilina De Zoysa</h1>
-<h3 align="center">A passionate about Full Stack Development</h3>
+<h1 align="center">I'm Thilina De Zoysa</h1>
+<h3 align="center">A passionate About Full Stack Development</h3>
+<p align="center">
+  <img src="https://www.softprodigy.com/wp-content/uploads/2021/06/JS-Development-Gif.gif" width="100%" alt="JavaScript Development GIF">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoysa2000&label=Profile%20views&color=0e75b6&style=flat" alt="zoysa2000" /> </p>
 
@@ -7,17 +10,17 @@
 
 - 🔭 I’m currently working on **AI Driven Framework for Accurate ECG Arrhythmia Classification**
 
-- 🌱 I’m currently learning **MERN Stack , Laravel**
+- 🌱 I’m currently learning **MERN Stack , Laravel , Typescript , PHP**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **thilinadezoysa2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thilina de zoysa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina de zoysa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thilina-de-zoysa-a6aa362a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina de zoysa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoysa2000&show_icons=true&locale=en&layout=compact" alt="zoysa2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoysa2000&show_icons=true&locale=en" alt="zoysa2000" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoysa2000&" alt="zoysa2000" /></p>
+
+
