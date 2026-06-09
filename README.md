@@ -1,5 +1,8 @@
 <h1 align="center">I'm Thilina De Zoysa | DevOps & Cloud Enthusiast</h1>
-<p align="justify-center">I am a Computer Science undergraduate at General Sir John Kotelawala Defence University, passionate about leveraging technology to solve complex problems. With a strong background in software development, I specialize in web and mobile application development, focusing on creating efficient and innovative solutions. I am a self-motivated learner, skilled in adapting quickly to new theories, tools, technologies, and frameworks, utilizing logical thinking to solve problems, and proficient in collaborative teamwork. My aim is to contribute to meaningful projects and deliver innovative solutions as a Software Engineer.</p>
+<p align="justify-center">I am an IT professional passionate about technology-driven problem-solving, with experience in software
+development and deployment. I focus on building efficient, scalable solutions and have a strong interest in
+DevOps and Cloud practices. I am a self-motivated learner with strong logical thinking, teamwork, and
+adaptability, aiming to contribute to impactful projects as a Full Stack Software Engineer</p>
 <p align="center">
   <img src="https://st4.depositphotos.com/9233766/40752/i/450/depositphotos_407523070-stock-photo-devops-agile-development-concept-on.jpg" width="100%" alt="JavaScript Development GIF">
 </p>
