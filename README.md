@@ -1,4 +1,4 @@
-<h1 align="center">I'm Thilina De Zoysa | Software Engineering | DevOps & Cloud Enthusiast</h1>
+<h1 align="center">I'm Thilina De Zoysa | Software Engineering | DevOps & Cloud </h1>
 <p align="justify-center">I am an IT professional passionate about technology-driven problem-solving, with experience in software
 development and deployment. I focus on building efficient, scalable solutions and have a strong interest in
 DevOps and Cloud practices. I am a self-motivated learner with strong logical thinking, teamwork, and
